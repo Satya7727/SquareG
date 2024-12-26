@@ -1,2 +1,1 @@
-# SquareG
-Mini Project Using HTML,CSS,Javascript
+My mini project
