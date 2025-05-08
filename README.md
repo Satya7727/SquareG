@@ -1,3 +1,1 @@
-My mini project
-<br>
-By Satya Prakash yadav
+# My mini project using HTML,CSS,Javascript
